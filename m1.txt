@@ -1,9 +1,8 @@
 m1
-m2
-m3
-m5
 m4
-m67
 =======
+
+m3
+
 m4
->>>>>>> 6c8efa5 (added m5)
+>>>>>>> ab15e94 (adding few to main)
